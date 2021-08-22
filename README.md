@@ -1,4 +1,4 @@
-### Hi
+### Hi, if you are for some reason looking in my profile, you will only find old and dead projects. All the good stuff is either in organization repositories, or private.
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
