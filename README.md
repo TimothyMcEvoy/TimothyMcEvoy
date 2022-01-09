@@ -1,4 +1,4 @@
-### Hi. Most repositories here are set as private. If you are here looking for a project in particular, message me and I can add your account to view.
+### Hi. Most repositories here are set as private or within organization accounts. If you are here looking for a project in particular, message me and I can add your account to view.
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
