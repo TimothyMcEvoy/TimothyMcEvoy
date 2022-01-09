@@ -1,4 +1,4 @@
-### Hi
+### Hi. Most repositories here are set as private.
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
