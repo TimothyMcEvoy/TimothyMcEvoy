@@ -1,4 +1,4 @@
-### Hi. Most repositories here are set as private or within organization accounts. If you are here looking for something in particular, message me.
+### Hi. Most repositories here are set as private or within organization accounts. If you are here looking for something in particular, email me at timothymcevoy@vt.edu.
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
