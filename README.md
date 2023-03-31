@@ -1,4 +1,10 @@
-### Hi.
+### Hi!
+##### Check out some of the stuff I'm working on in these places:
+https://cadlab.io/project/26479/master/files
+https://github.com/joeesser1842/ttc
+https://github.com/joeesser1842/eps
+https://github.com/joeesser1842/obdh
+
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
