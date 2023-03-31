@@ -1,9 +1,10 @@
 ### Hi!
 ##### Check out some of the stuff I'm working on in these places:
-https://cadlab.io/project/26479/master/files <br>
-https://github.com/joeesser1842/ttc <br>
-https://github.com/joeesser1842/eps <br>
-https://github.com/joeesser1842/obdh <br>
+https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS components <br>
+https://github.com/joeesser1842/ttc -- InspireFly TTC Board <br>
+https://github.com/joeesser1842/eps -- InspireFly EPS Board <br>
+https://github.com/joeesser1842/obdh -- InspireFly OBDH Board<br>
++ a few more... <br>
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
