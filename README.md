@@ -1,9 +1,9 @@
-### Hi!
+### Hi! I'm Tim, an Aerospace Engineering student with an interest in electronics systems. I'm part of 2 cubesat teams at Virginia Tech, and always looking for a new challenge!
 ##### Check out some of the stuff I'm working on in these places:
-+ https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS Board <br>
 + https://github.com/joeesser1842/ttc -- InspireFly TTC Board <br>
 + https://github.com/joeesser1842/eps -- InspireFly EPS Board <br>
 + https://github.com/joeesser1842/obdh -- InspireFly OBDH Board<br>
++ https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS Board <br>
 + more... <br>
 
 <!--
