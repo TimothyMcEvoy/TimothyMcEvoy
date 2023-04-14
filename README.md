@@ -1,13 +1,13 @@
 ### Hi! 
 I'm an Aerospace Engineering student with an interest in electronics systems. At Virginia Tech I am part of two cubesat teams, along with a few other projects...
 #### Most recently I accepted a position as an intern at The Boeing Company in El Segundo California. At Boeing I will be an Electronics Product Design and Analysis Engineering intern.
-###### Please note that none of the links below are up to date with current revisions, but provide a general idea of the projects I'm on.
 ##### Check out some of the stuff I'm working on in these places:
 + https://github.com/joeesser1842/ttc -- InspireFly TTC Board <br>
 + https://github.com/joeesser1842/eps -- InspireFly EPS Board <br>
 + https://github.com/joeesser1842/obdh -- InspireFly OBDH Board<br>
 + https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS Board <br>
 + more... <br>
+###### Please note that none of the links above are up to date with current revisions, but provide a general idea of the projects I'm on.
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
