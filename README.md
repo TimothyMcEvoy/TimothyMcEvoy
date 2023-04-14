@@ -1,6 +1,6 @@
 ### Hi! 
 I'm an Aerospace Engineering student with an interest in electronics systems. At Virginia Tech I am part of two cubesat teams, along with a few other projects...
-#### Most recently I accepted a position as an intern at The Boeing Company in El Segundo California. At Boeing I will be an Electronics Product Design and Analysis Engineering intern.
+#### Most recently I accepted an offer to be an intern at The Boeing Company in El Segundo California. At Boeing I will be an Electronics Product Design and Analysis Engineering intern.
 ##### Check out some of the stuff I'm working on in these places:
 + https://github.com/joeesser1842/ttc -- InspireFly TTC Board <br>
 + https://github.com/joeesser1842/eps -- InspireFly EPS Board <br>
