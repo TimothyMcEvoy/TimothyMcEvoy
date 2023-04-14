@@ -8,7 +8,7 @@ Most recently I accepted an offer to be an intern at The Boeing Company in El Se
 + https://github.com/joeesser1842/obdh -- InspireFly OBDH Board<br>
 + https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS Board <br>
 + more... <br>
-###### Please note that none of the links above are up to date with current revisions, but provide a general idea of the projects I'm on.
+###### Please note that none of the links above are up to date with current revisions, but provide a general idea of the projects I'm on. <br> On a final note, please keep in mind much of my work is in private repositories so you may not see everything here.
 
 <!--
 **TimothyMcEvoy/TimothyMcEvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
