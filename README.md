@@ -3,9 +3,9 @@ I'm an Aerospace Engineering student with an interest in electronics systems. At
 
 Most recently I accepted an offer to be an intern at The Boeing Company in El Segundo, California. At Boeing I will be an Electronics Product Design and Analysis Engineering intern.
 ##### Check out some of the stuff I'm working on at Virginia Tech in these places:
-+ https://github.com/joeesser1842/ttc -- InspireFly TTC Board <br>
-+ https://github.com/joeesser1842/eps -- InspireFly EPS Board <br>
-+ https://github.com/joeesser1842/obdh -- InspireFly OBDH Board<br>
++ https://github.com/inspireFly-VT/ttc -- InspireFly TTC Board <br>
++ https://github.com/inspireFly-VT/eps -- InspireFly EPS Board <br>
++ https://github.com/inspireFly-VT/obdh -- InspireFly OBDH Board<br>
 + https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS Board <br>
 + more... <br>
 ###### Please note that none of the links above are up to date with current revisions, but provide a general idea of the projects I'm on. <br> On a final note, please keep in mind much of my work is in private repositories so you may not see everything here or on my public GitHub at all.
