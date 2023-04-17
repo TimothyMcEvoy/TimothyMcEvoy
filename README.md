@@ -6,7 +6,7 @@ Most recently I accepted an offer to be an intern at The Boeing Company in El Se
 + https://github.com/inspireFly-VT/ttc -- InspireFly TTC Board <br>
 + https://github.com/inspireFly-VT/eps -- InspireFly EPS Board <br>
 + https://github.com/inspireFly-VT/obdh -- InspireFly OBDH Board<br>
-+ https://cadlab.io/project/26479/master/files -- UtProSat (or future project) GPS Board <br>
++ https://cadlab.io/project/26479/master/files -- UtProX GPS Board <br>
 + more... <br>
 ###### Please note that none of the links above are up to date with current revisions, but provide a general idea of the projects I'm on. <br> On a final note, please keep in mind much of my work is in private repositories so you may not see everything here or on my public GitHub at all.
 
