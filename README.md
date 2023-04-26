@@ -1,5 +1,5 @@
 ### Hi! 
-I'm an Aerospace Engineering student concentrating on space, with an interest in electronics systems. At Virginia Tech I am part of two cubesat teams, along with a few other projects... <br>
+I'm an Aerospace Engineering student, concentrating on space engineering, with an interest in electronics systems. At Virginia Tech I am part of two cubesat teams, along with a few other projects... <br>
 
 Most recently I accepted an offer to be an intern at The Boeing Company in El Segundo, California. At Boeing I will be an Electronics Product Design and Analysis Engineering intern.
 ##### Check out some of the stuff I'm working on at Virginia Tech in these places:
