@@ -1,5 +1,5 @@
 ### Hi! 
-I'm an Aerospace Engineering student concentrating on space engineering, with a minor in physics. At Virginia Tech I am part of two cubesat teams, along with a few other projects... I am a payload/electronics team lead on the inspireFly satellite <br>
+I'm an Aerospace Engineering student concentrating on space engineering, with a minor in physics. At Virginia Tech I am part of two cubesat teams, along with a few other projects... I am a payload/electronics team lead on the inspireFly satellite. <br>
 
 I am currently an intern at The Boeing Company in El Segundo, California. At Boeing I work in Electronics Product Design and Analysis Engineering for the Space Electronics division.
 ##### Check out some of the stuff I'm working on at Virginia Tech in these places:
