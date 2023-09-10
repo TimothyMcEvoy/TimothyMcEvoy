@@ -1,7 +1,7 @@
 ### Hi! 
-I'm an Aerospace Engineering student, concentrating on space engineering, with an interest in electronics systems. At Virginia Tech I am part of two cubesat teams, along with a few other projects... <br>
+I'm an Aerospace Engineering student, concentrating on space engineering, with an interest in electronics systems. At Virginia Tech I am part of two cubesat teams, along with a few other projects... I am a payload/electronics team lead on the inspireFly satellite <br>
 
-I am currently an intern at The Boeing Company in El Segundo, California. At Boeing I am an Electronics Product Design and Analysis Engineering intern.
+I am currently an intern at The Boeing Company in El Segundo, California. At Boeing I work in Electronics Product Design and Analysis Engineering for the Space Electronics division.
 ##### Check out some of the stuff I'm working on at Virginia Tech in these places:
 + https://github.com/inspireFly-VT/ttc -- InspireFly TTC Board <br>
 + https://github.com/inspireFly-VT/eps -- InspireFly EPS Board <br>
